@@ -23,5 +23,5 @@ A custom automated Wayland setup for Arch Linux,that allows you to lain-larp lik
 Clone this repository and run the install script:
 ```bash
 
-cd ~/my-rice
+cd ~/larptop-rice-main
 ./install.sh

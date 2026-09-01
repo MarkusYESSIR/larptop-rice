@@ -22,6 +22,6 @@ A custom automated Wayland setup for Arch Linux,that allows you to lain-larp lik
 
 Clone this repository and run the install script:
 ```bash
-git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git) ~/my-rice
+
 cd ~/my-rice
 ./install.sh

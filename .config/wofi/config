@@ -1,0 +1,6 @@
+width=500
+height=500
+show=drun
+prompt=Search...
+allow_markup=true
+no_actions=true

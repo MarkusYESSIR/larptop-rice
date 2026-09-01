@@ -1,0 +1,57 @@
+/* Window background and border */
+#window {
+    margin: 5px;
+    border: 2px solid #D6748B;
+    background-color: #1A1A1A;
+    border-radius: 5px;
+}
+
+/* The outer box containing everything */
+#outer-box {
+    margin: 10px;
+    padding: 5px;
+}
+
+/* The search input field */
+#input {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #595959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #2D2D2D;
+}
+
+/* When the search bar is focused */
+#input:focus {
+    border: 1px solid #D6748B;
+    outline: none;
+}
+
+/* The scrollable list area */
+#scroll {
+    margin-top: 10px;
+}
+
+/* Individual list entries */
+#entry {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Text color for standard entries */
+#text {
+    margin: 2px;
+    color: #FFFFFF;
+}
+
+/* The currently highlighted/selected entry */
+#entry:selected {
+    background-color: #D6748B;
+}
+
+/* Text color of the selected entry (keeping it readable) */
+#entry:selected #text {
+    color: #FFFFFF;
+    font-weight: bold;
+}

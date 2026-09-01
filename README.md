@@ -1,6 +1,6 @@
 # Arch & Hyprland Rice
 
-A custom automated Wayland setup for Arch Linux, featuring dynamic tiling, custom keybinds, and an automated deployment script.
+A custom automated Wayland setup for Arch Linux,that allows you to lain-larp like never before. 
 
 ## 📸 Screenshots
 

@@ -1,9 +1,11 @@
-# Chad's Arch & Hyprland Rice
+# Arch & Hyprland Rice
 
 A custom automated Wayland setup for Arch Linux, featuring dynamic tiling, custom keybinds, and an automated deployment script.
 
 ## 📸 Screenshots
-*(Upload your screenshots to GitHub and drag them here)*
+
+<img width="1917" height="1077" alt="copy-capture" src="https://github.com/user-attachments/assets/58e92ea0-b4ba-4373-b870-898dddf29976" />
+
 
 ## 📦 Core Components
 - **OS:** Arch Linux
